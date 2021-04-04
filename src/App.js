@@ -1,23 +1,13 @@
-import logo from './logo.svg';
 import './App.css';
-
+import Socials from './Socials.js';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <img class='headshot' src="https://github.com/jerardlouis/Resume-Site/blob/main/src/headshot.jpg?raw=true"/>
+      <h1>Jerard Louis Dayanghirang Guevarra</h1>
+      <p>Software Engineer | Musician</p>
+      <p>Based in NYC</p>
+      <Socials/>
     </div>
   );
 }
