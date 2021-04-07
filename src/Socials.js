@@ -38,7 +38,7 @@ function Socials(){
         />
         </a >
         <a href="https://drive.google.com/file/d/1vFj_TARwGP9N1HM2TcT69JwX6oJS0mgL/view" target="_blank">
-         <img class="email" src="https://img.17qq.com/images/arhwcutuuax.jpeg"
+         <img class="email" src="https://i.imgur.com/GoBT7iu.png"
            width="25"
            height="25"
         />
