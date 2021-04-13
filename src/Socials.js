@@ -5,6 +5,12 @@ function Socials(){
     
     return(
         <div className = "Socials">
+        <a href="https://open.spotify.com/user/222efgwx2w3kei4ibnolmncyi?si=82ee7ebd769c4277" target="_blank">
+         <img class="spotify" src="https://cdn0.iconfinder.com/data/icons/social-glyph/30/spotify-480.png"
+           width="25"
+           height="25"
+         />
+         </a >
         <a href="https://www.tiktok.com/@jerardlouis/video/6875032236828216582?lang=en&is_copy_url=1&is_from_webapp=v2" target="_blank">
          <img class="tiktok" src="https://cdn0.iconfinder.com/data/icons/social-media-2310/24/_tik_tok_communication_social_media_network-512.png"
            width="25"
