@@ -28,17 +28,7 @@ h1 {
   margin-left: auto;
   margin-right: auto;
 }
-h1:after {
-  content: " ";
-  display: block;
-  width: 80%;
-  height: 0.05px;
-  background-color: white;
-  border-radius: 15px;
-  margin-top: 3%;
-  margin-left: auto;
-  margin-right: auto;
-}
+
 p {
   font-size: 80%;
   margin-left: auto;
