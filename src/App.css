@@ -43,3 +43,7 @@ p {
   margin-left: auto;
   margin-right: auto;
 }
+html {
+  height: 100%;
+  background-color:black;
+}
