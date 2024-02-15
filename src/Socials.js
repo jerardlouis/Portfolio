@@ -43,7 +43,7 @@ function Socials(){
            height="25"
         />
         </a >
-        <a href="https://drive.google.com/file/d/1amL4MDvFLPYCmBN1Eze4X7fyDvo2B38Y/view?usp=sharing" target="_blank">
+        <a href="https://drive.google.com/file/d/1qmTIR7mz4BTylg3DK-aedy6GlbZwrXgP/view?usp=sharing" target="_blank">
          <img class="email" src="https://i.imgur.com/GoBT7iu.png"
            width="25"
            height="25"
