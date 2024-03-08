@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <img class='headshot' src={headshot}/>
       
-      <h1>♥ Jerard Louis Dayanghirang Guevarra ♥</h1>
+      <h1>❤︎ Jerard Louis Dayanghirang Guevarra ❤︎</h1>
       <p>♪ Software Engineer | Musician ♫</p>
       <p>⚲ NYC x LA </p>
       <Socials></Socials>
