@@ -10,6 +10,7 @@
     margin-right: 5px;
     transition: 0.1s;
     filter: invert(1);
+    
   }
   .Socials img:hover {
       transform: scale(2);

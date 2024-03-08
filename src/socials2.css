@@ -7,7 +7,7 @@
     margin-left: auto;
     margin-right: auto;
     margin-top: 10px;
-    margin-bottom: 50%;
+    margin-bottom: 1%;
     text-decoration: none!important;
   }
   .container {
@@ -25,6 +25,8 @@
     border-radius: 15px;
     width: 225px;
     text-decoration: none!important;
+    font-weight: bold;
+    box-shadow: 2px 2px white;
   }
 
   .link:hover {

@@ -13,7 +13,7 @@ function Socials2(){
             height="25"
             />
             <p>LinkedIn</p>
-            <img class="linkedin" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Linkedin_svg-512.png"
+            <img class="linkedin" src="https://cdn.iconscout.com/icon/free/png-512/free-ellipsis-horizontal-menu-grid-collection-44652.png?f=webp&w=256"
             width="25"
             height="25"
             />
@@ -26,7 +26,7 @@ function Socials2(){
             height="25"
             />
             <p>Email</p>
-            <img class="email" src="https://cdn4.iconfinder.com/data/icons/rounded-white-basic-ui/139/Mail02-RoundedWhite-512.png"
+            <img class="email" src="https://cdn.iconscout.com/icon/free/png-512/free-ellipsis-horizontal-menu-grid-collection-44652.png?f=webp&w=256"
             width="25"
             height="25"
             />
@@ -39,7 +39,7 @@ function Socials2(){
             height="25"
             />
             <p>Resume</p>
-            <img class="email" src="https://i.imgur.com/GoBT7iu.png"
+            <img class="email" src="https://cdn.iconscout.com/icon/free/png-512/free-ellipsis-horizontal-menu-grid-collection-44652.png?f=webp&w=256"
             width="25"
             height="25"
             />
@@ -52,7 +52,7 @@ function Socials2(){
                 height="25"
             />
             <p>GitHub</p>
-            <img class="github" src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png"
+            <img class="github" src="https://cdn.iconscout.com/icon/free/png-512/free-ellipsis-horizontal-menu-grid-collection-44652.png?f=webp&w=256"
                 width="25"
                 height="25"
             />
@@ -65,7 +65,7 @@ function Socials2(){
             height="25"
             />
             <p>Instagram</p>
-            <img class="instagram" src="https://cdn1.iconfinder.com/data/icons/feather-2/24/instagram-512.png"
+            <img class="instagram" src="https://cdn.iconscout.com/icon/free/png-512/free-ellipsis-horizontal-menu-grid-collection-44652.png?f=webp&w=256"
             width="25"
             height="25"
             />
@@ -78,7 +78,7 @@ function Socials2(){
             height="25"
             />
             <p>Spotify</p>
-            <img class="spotify" src="https://cdn0.iconfinder.com/data/icons/social-glyph/30/spotify-480.png"
+            <img class="spotify" src="https://cdn.iconscout.com/icon/free/png-512/free-ellipsis-horizontal-menu-grid-collection-44652.png?f=webp&w=256"
             width="25"
             height="25"
             />
@@ -91,7 +91,7 @@ function Socials2(){
             height="25"
             />
             <p>TikTok</p>
-            <img class="tiktok" src="https://cdn0.iconfinder.com/data/icons/social-media-2310/24/_tik_tok_communication_social_media_network-512.png"
+            <img class="tiktok" src="https://cdn.iconscout.com/icon/free/png-512/free-ellipsis-horizontal-menu-grid-collection-44652.png?f=webp&w=256"
             width="25"
             height="25"
             />
