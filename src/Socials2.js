@@ -13,7 +13,7 @@ function Socials2(){
             height="25"
             />
             </a >
-            <p>   " LinkedIn " </p>
+            <p>LinkedIn</p>
             </div>
             <div class="link">
             <a href="mailto: jeardlguevarra@gmail.com" target="_blank">
@@ -22,7 +22,7 @@ function Socials2(){
             height="25"
             />
             </a >
-            <p>   " Email " </p>
+            <p>Email</p>
             </div>
             <div class="link">
             <a href="https://drive.google.com/file/d/1vkXfC-ECoObVyVFNRifbFx6TCDeP3NeY/view?usp=sharing" target="_blank">
@@ -31,7 +31,7 @@ function Socials2(){
             height="25"
             />
             </a >
-            <p>   " Resume " </p>
+            <p>Resume</p>
             </div>
             <div class="link">
             <a href="https://github.com/jerardlouis" target="_blank">
@@ -40,7 +40,7 @@ function Socials2(){
                 height="25"
             />
             </a >
-            <p>   " GitHub " </p>
+            <p>GitHub</p>
             </div>
             <div class="link">  
             <a href="https://www.instagram.com/jerardlouis/?hl=en" target="_blank">
@@ -49,7 +49,7 @@ function Socials2(){
             height="25"
             />
             </a>
-            <p>   " Instagram " </p>
+            <p>Instagram</p>
             </div>
             <div class="link">
             <a href="https://open.spotify.com/user/222efgwx2w3kei4ibnolmncyi?si=82ee7ebd769c4277" target="_blank">
@@ -58,7 +58,7 @@ function Socials2(){
             height="25"
             />
             </a >
-            <p>   " Spotify " </p>
+            <p>Spotify</p>
             </div>
             <div class="link">
             <a href="https://www.tiktok.com/@jerardlouis/video/6875032236828216582?lang=en&is_copy_url=1&is_from_webapp=v2" target="_blank">
@@ -67,7 +67,7 @@ function Socials2(){
             height="25"
             />
             </a >
-            <p>   " TikTok "</p>
+            <p>TikTok</p>
             </div>  
             
             

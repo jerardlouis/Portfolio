@@ -19,10 +19,15 @@
     align-items: center;
     max-height: 35px;
     margin-top: 5px;
+    border: solid white 1px;
+    border-radius: 50px;
+    width: 180px;
   }
   .link:hover {
     transform: scale(1.2);
     border: 1px solid white;
+    background-color: white;
+    color: black;
     }
   .link img {
     display:flex;
