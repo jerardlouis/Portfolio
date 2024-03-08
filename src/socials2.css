@@ -1,0 +1,35 @@
+  
+.Socials2 {
+    display: flex; 
+    flex-direction: column; 
+    align-items: start; 
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    padding-bottom: 60%;
+  }
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+  }
+  .container .link {
+    display: flex;
+    align-items: center;
+    max-height: 35px;
+    margin-top: 5px;
+  }
+  .link:hover {
+    transform: scale(1.2);
+    }
+  .link img {
+    display:flex;
+    align-self: center;
+    margin-left: 5px;
+    margin-right: 5px;
+    transition: 0.1s;
+    filter: invert(1);
+  }
+
+  

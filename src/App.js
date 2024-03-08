@@ -1,5 +1,6 @@
 import './App.css';
 import Socials from './Socials.js';
+import Socials2 from './Socials2.js';
 import headshot from './headshot.jpg'
 function App() {
   return (
@@ -9,7 +10,8 @@ function App() {
       <h1>Jerard Louis Dayanghirang Guevarra</h1>
       <p>Software Engineer | Musician</p>
       <p>NYC x LA</p>
-      <Socials/>
+      
+      <Socials2/>
     </div>
   );
 }
