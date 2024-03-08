@@ -36,6 +36,9 @@ p {
   margin-left: auto;
   margin-right: auto;
 }
+p, p:visited {
+  color: white;
+}
 html {
   height: 100vh;
   background-color:black;
