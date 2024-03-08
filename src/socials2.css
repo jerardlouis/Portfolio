@@ -6,13 +6,15 @@
     justify-content: center;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 20px;
+    margin-top: 10px;
     margin-bottom: 50%;
+    text-decoration: none!important;
   }
   .container {
     display: flex;
     flex-direction: column;
     align-items: center;
+    text-decoration: none!important;
   }
   .container .link {
     display: flex;
@@ -22,16 +24,19 @@
     border: solid white 1px;
     border-radius: 15px;
     width: 225px;
+    text-decoration: none!important;
   }
+
   .link:hover {
     transform: scale(1.2);
     background-color: rgb(251, 2, 2, 0.5);
+    text-decoration: none!important;
     }
   .link img {
     display:flex;
     align-self: center;
-    margin-left: 15px;
-    margin-right: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
     transition: 0.1s;
     filter: invert(1);
   }

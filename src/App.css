@@ -3,7 +3,7 @@
 .App {  
   height: 100vh;
   width: 100vw;
-  margin-top: 5%;
+  margin-top: 10%;
   text-align: center;
   background-color:black;
   display: grid;
@@ -21,7 +21,7 @@
   max-width: 150px;
   max-height: 150px;
   border-radius: 100%;
-  padding: 5%;
+  padding: 2%;
   margin-left: auto;
   margin-right: auto;
   filter: grayscale(100%);
@@ -30,6 +30,7 @@ h1 {
   font-size: 90%;
   margin-left: auto;
   margin-right: auto;
+  text-decoration: none!important;
 }
 
 p, p:visited, p:link, p:hover  {
@@ -43,4 +44,5 @@ html {
   height: 100vh;
   background-color:black;
   overflow: hidden;
+  text-decoration: none!important;
 }
