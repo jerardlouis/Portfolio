@@ -35,9 +35,11 @@ p {
   font-size: 80%;
   margin-left: auto;
   margin-right: auto;
+  text-decoration: none;
 }
 p, p:visited {
   color: white;
+  text-decoration: none;
 }
 html {
   height: 100vh;

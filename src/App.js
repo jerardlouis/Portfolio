@@ -10,6 +10,7 @@ function App() {
       <h1>Jerard Louis Dayanghirang Guevarra</h1>
       <p>Software Engineer | Musician</p>
       <p>NYC x LA</p>
+      <Socials></Socials>
       <Socials2/>
     </div>
   );
