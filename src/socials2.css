@@ -16,6 +16,9 @@
     align-items: center;
     text-decoration: none!important;
   }
+  .container a {
+    text-decoration: none;
+  }
   .container .link {
     display: flex;
     align-items: center;
@@ -24,7 +27,6 @@
     border: solid white 1px;
     border-radius: 15px;
     width: 225px;
-    text-decoration: none!important;
     font-weight: bold;
     box-shadow: 2px 2px white;
   }
