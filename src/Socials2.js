@@ -129,7 +129,7 @@ function Socials2(){
             width="25"
             height="25"
             />
-            <p>Valentine's App</p>
+            <p>Bowery Wordle</p>
             <img class="tiktok" src="https://cdn.iconscout.com/icon/free/png-512/free-ellipsis-horizontal-menu-grid-collection-44652.png?f=webp&w=256"
             width="25"
             height="25"
