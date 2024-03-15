@@ -97,6 +97,20 @@ function Socials2(){
             />
             </div>  
             </a >
+            <a href="https://venmo.com/u/JerardLouis" target="_blank">
+            <div class="link">
+            <img class="tiktok" src="https://i.pinimg.com/originals/ec/54/d1/ec54d1b2fb41716ccd849236de43b5fc.jpg"
+            width="25"
+            height="25"
+            />
+            <p>Venmo</p>
+            <img class="tiktok" src="https://cdn.iconscout.com/icon/free/png-512/free-ellipsis-horizontal-menu-grid-collection-44652.png?f=webp&w=256"
+            width="25"
+            height="25"
+            />
+            </div>  
+            </a >
+            
             <a href="https://sleepy-falls-48470-0ab41f492d84.herokuapp.com/" target="_blank">
             <div class="link">
             <img class="tiktok" src="https://www.vhv.rs/dpng/d/430-4306427_settings-gear-settings-gear-icon-free-hd-png.png"

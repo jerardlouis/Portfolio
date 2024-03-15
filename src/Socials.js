@@ -5,6 +5,12 @@ function Socials(){
     
     return(
         <div className = "Socials">
+        <a href="https://venmo.com/u/JerardLouis" target="_blank">
+         <img class="venmo" src="https://i.pinimg.com/originals/ec/54/d1/ec54d1b2fb41716ccd849236de43b5fc.jpg"
+           width="25"
+           height="25"
+        />
+        </a >
         <a href="https://open.spotify.com/user/222efgwx2w3kei4ibnolmncyi?si=82ee7ebd769c4277" target="_blank">
          <img class="spotify" src="https://cdn0.iconfinder.com/data/icons/social-glyph/30/spotify-480.png"
            width="25"
