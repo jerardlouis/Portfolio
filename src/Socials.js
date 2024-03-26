@@ -1,7 +1,7 @@
 import "./socials.css";
 
 function Socials(){
-    
+    //https://twitter.com/gothasianboy
     
     return(
         <div className = "Socials">
@@ -39,6 +39,12 @@ function Socials(){
         </a>
         <a href="https://www.linkedin.com/in/jerard-louis-dayanghirang-guevarra-514717139/" target="_blank">
          <img class="linkedin" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Linkedin_svg-512.png"
+           width="25"
+           height="25"
+        />
+        </a >
+        <a href="https://twitter.com/gothasianboy" target="_blank">
+         <img class="twitter" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png?20230802142353"
            width="25"
            height="25"
         />

@@ -110,6 +110,19 @@ function Socials2(){
             />
             </div>  
             </a >
+            <a href="https://twitter.com/gothasianboy" target="_blank">
+            <div class="link">
+            <img class="tiktok" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png?20230802142353"
+            width="25"
+            height="25"
+            />
+            <p>The App Formerly Known as Twitter</p>
+            <img class="tiktok" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png?20230802142353"
+            width="25"
+            height="25"
+            />
+            </div>  
+            </a >
             
             <a href="https://sleepy-falls-48470-0ab41f492d84.herokuapp.com/" target="_blank">
             <div class="link">
