@@ -137,19 +137,35 @@ function Socials2(){
             />
             </div>  
             </a >
-            <a href="https://safe-savannah-53426-4da91ff45ff5.herokuapp.com/" target="_blank">
+
+            <a href="http://safe-wave-34961-516da549d6d0.herokuapp.com/" target="_blank">
             <div class="link">
             <img class="tiktok" src="https://www.vhv.rs/dpng/d/430-4306427_settings-gear-settings-gear-icon-free-hd-png.png"
             width="25"
             height="25"
             />
-            <p>Valentine's App</p>
+            <p>Laravel Twitter Clone</p>
             <img class="tiktok" src="https://cdn.iconscout.com/icon/free/png-512/free-ellipsis-horizontal-menu-grid-collection-44652.png?f=webp&w=256"
             width="25"
             height="25"
             />
             </div>  
             </a >
+            
+            <a href="https://safe-savannah-53426-4da91ff45ff5.herokuapp.com/" target="_blank">
+            <div class="link">
+            <img class="tiktok" src="https://www.vhv.rs/dpng/d/430-4306427_settings-gear-settings-gear-icon-free-hd-png.png"
+            width="25"
+            height="25"
+            />
+            <p>Send this to your Valentine!</p>
+            <img class="tiktok" src="https://cdn.iconscout.com/icon/free/png-512/free-ellipsis-horizontal-menu-grid-collection-44652.png?f=webp&w=256"
+            width="25"
+            height="25"
+            />
+            </div>  
+            </a >
+
             </div>
         </div>
     );
