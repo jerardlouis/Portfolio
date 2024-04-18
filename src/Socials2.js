@@ -117,7 +117,7 @@ function Socials2(){
             height="25"
             />
             <p>The App Formerly Known as Twitter</p>
-            <img class="tiktok" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png?20230802142353"
+            <img class="tiktok" src="https://cdn.iconscout.com/icon/free/png-512/free-ellipsis-horizontal-menu-grid-collection-44652.png?f=webp&w=256"
             width="25"
             height="25"
             />
