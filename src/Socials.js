@@ -56,7 +56,7 @@ function Socials(){
         />
         </a >
         <a href="https://drive.google.com/file/d/1vkXfC-ECoObVyVFNRifbFx6TCDeP3NeY/view?usp=sharing" target="_blank">
-         <img class="email" src="https://i.imgur.com/GoBT7iu.png"
+         <img class="email" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/A_Black_Star.png"
            width="25"
            height="25"
         />
