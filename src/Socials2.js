@@ -58,7 +58,19 @@ function Socials2(){
             />
             </div>
             </a >
-            
+            <a href="https://www.instagram.com/jerardlouis/?hl=en" target="_blank">
+            <div class="link">  
+            <img class="instagram" src="https://cdn1.iconfinder.com/data/icons/feather-2/24/instagram-512.png"
+            width="25"
+            height="25"
+            />
+            <p>Instagram</p>
+            <img class="instagram" src="https://cdn.iconscout.com/icon/free/png-512/free-ellipsis-horizontal-menu-grid-collection-44652.png?f=webp&w=256"
+            width="25"
+            height="25"
+            />
+            </div>
+            </a>
             <a href="https://open.spotify.com/user/222efgwx2w3kei4ibnolmncyi?si=82ee7ebd769c4277" target="_blank">
             <div class="link">
             <img class="spotify" src="https://cdn0.iconfinder.com/data/icons/social-glyph/30/spotify-480.png"
@@ -71,6 +83,19 @@ function Socials2(){
             height="25"
             />
             </div>
+            </a >
+            <a href="https://www.tiktok.com/@jerardlouis/video/6875032236828216582?lang=en&is_copy_url=1&is_from_webapp=v2" target="_blank">
+            <div class="link">
+            <img class="tiktok" src="https://cdn0.iconfinder.com/data/icons/social-media-2310/24/_tik_tok_communication_social_media_network-512.png"
+            width="25"
+            height="25"
+            />
+            <p>TikTok</p>
+            <img class="tiktok" src="https://cdn.iconscout.com/icon/free/png-512/free-ellipsis-horizontal-menu-grid-collection-44652.png?f=webp&w=256"
+            width="25"
+            height="25"
+            />
+            </div>  
             </a >
             <a href="https://venmo.com/u/JerardLouis" target="_blank">
             <div class="link">
