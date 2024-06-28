@@ -47,3 +47,6 @@ html {
   overflow: scroll;
   text-decoration: none!important;
 }
+small {
+  color: black;
+}
