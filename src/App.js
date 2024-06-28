@@ -9,7 +9,7 @@ function App() {
       
       <h1>❤︎ Jerard Louis Dayanghirang Guevarra ❤︎</h1>
       <p>♪ Software Engineer | Musician ♫</p>
-      <p>⚲ NYC x LA </p>
+      <p>⚲ NYC x LA x SF </p>
       <Socials></Socials>
       <Socials2/>
       <p><small><small>Made by Jerard Louis Dayanghirang Guevarra</small></small></p>
