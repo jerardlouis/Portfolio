@@ -37,7 +37,7 @@ function Socials(){
            height="25"
         />
         </a>
-        <a href="https://www.linkedin.com/in/jerard-louis-dayanghirang-guevarra-514717139/" target="_blank">
+        <a href="https://www.linkedin.com/in/jerard-guevarra-514717139/" target="_blank">
          <img class="linkedin" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Linkedin_svg-512.png"
            width="25"
            height="25"
